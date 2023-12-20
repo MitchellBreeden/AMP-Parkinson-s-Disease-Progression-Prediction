@@ -27,6 +27,7 @@ Objective: Predict Parkinson's disease progression using protein and peptide dat
 
 ## Additional Resources
 - `Script.ipynb`: Python Jupyter Notebook for the project.
+- `Presentation.pptx`: Overview of project findings.
 - `Report.pdf`: Detailed project report.
 
 ## Contact Information
