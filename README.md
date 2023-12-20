@@ -2,7 +2,7 @@
 
 ## Project Overview
 - **Title:** AMP-Parkinson's Disease Progression Prediction
-- **Authors:** Fraol Abebe, Mitch Breeden, John Gullette, Jason Pinto, Ryan Wadsworth
+- **Authors:** Fraol Abebe, Mitchell Breeden, John Gullette, Jason Pinto, Ryan Wadsworth
 - **Course:** OR-568-002
 - **Institution:** George Mason University
 - **Date:** 5/14/2023
@@ -11,8 +11,10 @@
 Objective: Predict Parkinson's disease progression using protein and peptide data, contributing to the understanding and management of the disease.
 
 ## Data Sources
-- Protein and peptide datasets. https://www.kaggle.com/competitions/amp-parkinsons-disease-progression-prediction/data
-- Data collected and processed for predictive modeling.
+- Data downloadable via [Kaggle](https://www.kaggle.com/competitions/amp-parkinsons-disease-progression-prediction/data)
+- `train_clinical_data.csv`: Clinical records with symptoms and medication information for training.
+- `train_peptides.csv`: Mass spectrometry data at the peptide level.
+- `train_proteins.csv`: Protein expression frequencies aggregated from the peptide level data.
 
 ## Methodology
 - **Tools Used:** Python, Jupyter Notebook, Google Colab, Ridge Regression, Random Forest Regression.
