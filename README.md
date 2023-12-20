@@ -2,22 +2,22 @@
 
 ## Project Overview
 - **Title:** AMP-Parkinson's Disease Progression Prediction
-- **Author:** George Mason University Researchers
+- **Authors:** Fraol Abebe, Mitch Breeden, John Gullette, Jason Pinto, Ryan Wadsworth
+- **Course:** OR-568-002
 - **Institution:** George Mason University
-- **Date:** [Date of the report]
+- **Date:** 5/14/2023
 
 ## Project Description
 Objective: Predict Parkinson's disease progression using protein and peptide data, contributing to the understanding and management of the disease.
 
 ## Data Sources
-- Protein and peptide datasets.
+- Protein and peptide datasets. https://www.kaggle.com/competitions/amp-parkinsons-disease-progression-prediction/data
 - Data collected and processed for predictive modeling.
 
 ## Methodology
 - **Tools Used:** Python, Jupyter Notebook, Google Colab, Ridge Regression, Random Forest Regression.
 - **Features:** Handling null values, data cleaning, predictive modeling.
 - **Approach:** Use of advanced statistical and machine learning techniques for disease progression prediction.
-- **Notes:** Detailed steps for data preprocessing and model evaluation are included.
 
 ## Results and Conclusions
 - Evaluation of model performance.
@@ -25,13 +25,15 @@ Objective: Predict Parkinson's disease progression using protein and peptide dat
 
 ## Additional Resources
 - `Script.ipynb`: Python Jupyter Notebook for the project.
-- Detailed steps and datasets available for reproducing the results.
+- `Report.pdf`: Detailed project report.
 
 ## Contact Information
-- [Contact information of the authors or institution]
-
+- Mitchell Breeden, Student, George Mason University.
+- Email: breedenmitch@gmail.com
+  
 ## Acknowledgments
-- Acknowledge contributors and supporting entities.
-
+- Yonca Erdem Demirtas, Course Instructor.
+  
 ## Sources
-- Refer to specific datasets, publications, or resources used in the project.
+- AMP®-Parkinson’s Disease Progression Prediction. (n.d.). Retrieved May 12, 2023, from [Kaggle Competition](https://kaggle.com/competitions/amp-parkinsons-disease-progression-prediction)
+- Statistics | Parkinson’s Foundation. (n.d.). Retrieved May 10, 2023, from [Parkinson's Foundation](https://www.parkinson.org/understanding-parkinsons/statistics)
